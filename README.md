@@ -1,4 +1,4 @@
-# Blog Management System
+# Content Management System
 
 This project consists of three HTML files that work together to create a blog management system. It allows users to view all blogs, add new blogs, and read individual blog posts.
 
